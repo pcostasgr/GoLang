@@ -45,7 +45,7 @@ func main() {
 	var elements_no int
 	var workers_no int
 
-	//parametes based on original article
+	//parameters based on original article
 	message_no = 10000
 	elements_no = 10000
 	workers_no = 4
